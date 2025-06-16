@@ -22,7 +22,7 @@
 ### Página Lista de Assinaturas
 
 - Na página da lista de assinaturas, através da leitura em tempo real da Firestore, as assinaturas são exibidas mostrando seus atributos;
-- **Cada assinatura possui um botão para atualizar os dados inseridos, assim como um outro botão para excluir a assinatura completamente;
+- Cada assinatura possui um botão para atualizar os dados inseridos, assim como um outro botão para excluir a assinatura completamente;
 
 ## Execução do Código:
 
