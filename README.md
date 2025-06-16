@@ -29,7 +29,7 @@
 - Importe este repositorio do git hub;
 - Abra a pasta Gerenciador_de_Assinaturas_Mensais/PDM-trabalho-feature-db-and-form;
 - Abra o terminal do VS Code e rode:
--- npm install
+### npm install
 - Isso instala todas as bibliotecas que estão listadas no package.json.
 - Instale o Expo CLI (se ainda não tiver):
 -- npm install -g expo-cli
