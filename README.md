@@ -33,13 +33,13 @@
 npm install
 ```
 - Isso instala todas as bibliotecas que estão listadas no package.json.
-- Instale o Expo CLI (se ainda não tiver):
-```shell
-npm install -g expo-cli
-```
 - Em seguida rode o app:
 ```shell
 npx expo start
+```
+- Ou rode:
+```shell
+npm run android
 ```
 - Um navegador abrirá com o Expo Developer Tools.
 - Escaneie o QR Code com o app Expo Go no seu celular (Android/iOS). Alternativamente o codigo pode ser rodado em emuladores de android no computador também.
